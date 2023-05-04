@@ -1,0 +1,67 @@
+body{
+    background-color: #e20074;
+    margin: auto;
+}
+
+h1{
+    font-size: 2cm;
+    top: 0;
+    right: 0px;
+    left: -40px;
+    bottom: 0;
+    text-align: center;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: normal;
+    color: #ffffff;
+    margin: 0
+}
+
+.logo img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    top: -90px;
+}
+
+.dovolena img{
+    position: relative;
+    width: 1637px;
+}
+
+h2{
+    right: 400px;
+    text-align: center;
+    font-size: 2cm;
+    position: relative;
+    top: -270px;
+    margin: auto;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: normal;
+    color: #ffffff;
+    margin: 0
+}
+
+P{
+    right: 365px;
+    text-align: center;
+    font-size: x-large;
+    position: relative;
+    top: -250px;
+    margin: auto;
+    padding: 0 0 10px 0;
+    font-weight: normal;
+    line-height: normal;
+    color: #ffffff;
+    margin: 0
+}
+
+.logo2 img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    top: -90px;
+}
